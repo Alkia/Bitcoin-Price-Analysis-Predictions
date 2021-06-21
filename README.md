@@ -1,5 +1,7 @@
+![alt text](https://media-exp3.licdn.com/dms/image/C5616AQGlWFo9aSw3og/profile-displaybackgroundimage-shrink_200_800/0/1620011036633?e=1629936000&v=beta&t=9IMhJLUF0i70ekEi07p06IZaDqPYbDt4NTuc5Ga_Zpw "Logo Title Text 1")
 # Bitcoin-Price-Analysis-Predictions
-Supporting Python Notebooks for Bitcoin Price Master Class
+
+## Supporting Python Notebooks for Bitcoin Price Master Class
 
 - Level0_Plotting_Bitcoin_Candlestick  : Show how to plot Bitcoin historical price data as Candlesticks using the Plotly library.
 
