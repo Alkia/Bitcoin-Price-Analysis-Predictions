@@ -24,4 +24,4 @@ Thank you for participating to this Master Class on Bitcoin forcasting. I hope y
 ## Data sources
 - Coinbase
 - Glassnode Studio
-- quandl API
+- quandl API 
